@@ -1,2 +1,5 @@
 This is some text that we need to look at we need to learn githubhttps://github.com/naplyon3/MyGitHubLearing.git
-git push -u origin main
+git push -u origin mainne
+
+
+new update
